@@ -107,7 +107,7 @@ A tool to calculate Ideal Body Weight.
 
 #### Calorie Calculator
 <div align="center">
-  <img src="image/calorie.png" width="100" alt="Calorie Calculator page">
+  <img src="image/calorie.png" width="100%" alt="Calorie Calculator page">
 </div>
 A tool to estimate daily calorie requirements.
 
