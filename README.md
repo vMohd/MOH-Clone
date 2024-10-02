@@ -23,7 +23,7 @@ A project for SWE363 - Web Engineering and Development, where we developed a dyn
 
 ### Home Page
 <div align="center">
-  <img src="image/home_gif.gif" width="75%" alt="MOH Home Page">
+  <img src="image/home_gif.gif" width="100%" alt="MOH Home Page">
 </div>
 
 On MOH home page, users can navigate through different sections, About Us, News, Health Awareness Tools , Working Hours, and Contact Us.
@@ -36,7 +36,7 @@ On MOH home page, users can navigate through different sections, About Us, News,
 
 ### About
 <div align="center">
-  <img src="image/about.png" width="75%" alt="Ministry About Page">
+  <img src="image/about.png" width="100%" alt="Ministry About Page">
 </div>
 MOH About page, including details about the ministry's mission, vision, and organizational structure.
 
@@ -44,7 +44,7 @@ MOH About page, including details about the ministry's mission, vision, and orga
 
 ### Contact
 <div align="center">
-  <img src="image/contact.png" width="75%" alt="Contact page">
+  <img src="image/contact.png" width="100%" alt="Contact page">
 </div>
 MOH Contact page with information for inquiries and a contact form.
 
@@ -56,7 +56,7 @@ MOH Media Center page featuring the latest news and resources.
 
 #### News
 <div align="center">
-  <img src="image/news.png" width="75%" alt="News page">
+  <img src="image/news.png" width="100%" alt="News page">
 </div>
 MOH News section displaying the latest updates and announcements.
 
@@ -68,46 +68,46 @@ MOH Useful Links page, providing emergency contact numbers, FAQs, and health cal
 
 #### Emergency Contact Numbers
 <div align="center">
-  <img src="image/numbers.png" width="75%" alt="Emergency Contact Numbers page">
+  <img src="image/numbers.png" width="100%" alt="Emergency Contact Numbers page">
 </div>
 A list of emergency contact numbers and services in Saudi Arabia.
 
 
 #### FAQs
 <div align="center">
-  <img src="image/faq.png" width="75%" alt="FAQs page">
+  <img src="image/faq.png" width="100%" alt="FAQs page">
 </div>
 
 Frequently Asked Questions regarding health services and ministry operations.
 
 **Preview of FAQs**
 <div align="center">
-  <img src="image/faq_gif.gif" width="75%" alt="FAQs page">
+  <img src="image/faq_gif.gif" width="100%" alt="FAQs page">
 </div>
 
 
 #### BMI Calculator
 <div align="center">
-  <img src="image/bmi.png" width="75%" alt="BMI Calculator page">
+  <img src="image/bmi.png" width="100%" alt="BMI Calculator page">
 </div>
 
 A tool to calculate Body Mass Index.
 
 **Preview of BMI Calculator**
 <div align="center">
-  <img src="image/bmi_gif.gif" width="75%" alt="BMI Calculator page">
+  <img src="image/bmi_gif.gif" width="100%" alt="BMI Calculator page">
 </div>
 
 
 #### IBW Calculator
 <div align="center">
-  <img src="image/ibw.png" width="75%" alt="IBW Calculator page">
+  <img src="image/ibw.png" width="100%" alt="IBW Calculator page">
 </div>
 A tool to calculate Ideal Body Weight.
 
 #### Calorie Calculator
 <div align="center">
-  <img src="image/calorie.png" width="75%" alt="Calorie Calculator page">
+  <img src="image/calorie.png" width="100" alt="Calorie Calculator page">
 </div>
 A tool to estimate daily calorie requirements.
 
